@@ -28,8 +28,8 @@ public class MapRouteCalc {
             System.out.println("usage: java MapRouteCalc X Y N M\n-----");
             initX = 0;
             initY = 0;
-            Nmax = 25;
-            Mmax = 25;
+            Nmax = 10;
+            Mmax = 10;
             // System.out.printf("Используются значения по умолчанию:\n" +
                                 // "X = %d, Y = %d, N = %d, M = %d\n", initX, initY, Nmax, Mmax);
             System.out.printf("Default values are used:\n" +
